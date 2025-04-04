@@ -1,15 +1,27 @@
 {
+<<<<<<< HEAD
     "version": "11.4.1",
+=======
+    "version": "11.6.0",
+>>>>>>> 629bbbdd4b015d25497d14bbf271afa8db795c07
     "description": "Database migration tool that favors simplicity and convention over configuration.",
     "homepage": "https://flywaydb.org/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
+<<<<<<< HEAD
             "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.1/flyway-commandline-11.4.1-windows-x64.zip",
             "hash": "sha1:a03ecf038cf06aae4a117ccfac5591ba4d335d21"
         }
     },
     "extract_dir": "flyway-11.4.1",
+=======
+            "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.6.0/flyway-commandline-11.6.0-windows-x64.zip",
+            "hash": "sha1:39d1e1db4d820c2b139569ba593bb47c375824bf"
+        }
+    },
+    "extract_dir": "flyway-11.6.0",
+>>>>>>> 629bbbdd4b015d25497d14bbf271afa8db795c07
     "bin": "flyway.cmd",
     "persist": [
         "conf",

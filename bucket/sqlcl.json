@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "version": "24.4.3.070.2106",
+=======
+    "version": "24.4.4.086.1931",
+>>>>>>> 629bbbdd4b015d25497d14bbf271afa8db795c07
     "description": "Oracle SQL Developer Command Line (SQLcl)",
     "homepage": "https://www.oracle.com/database/sqldeveloper/technologies/sqlcl",
     "license": {
@@ -10,7 +14,11 @@
         "JRE": "java/oraclejdk"
     },
     "url": "https://download.oracle.com/otn_software/java/sqldeveloper/sqlcl-latest.zip",
+<<<<<<< HEAD
     "hash": "efff09f97636524fc25168a6ad37fcfe29236504f6fb8fe335d86cf0ad6c5a32",
+=======
+    "hash": "21a9cb33008c2d3343084750cdd5014db07c0d8be78e63a45376c82b47f89f8e",
+>>>>>>> 629bbbdd4b015d25497d14bbf271afa8db795c07
     "extract_dir": "sqlcl",
     "bin": "bin\\sql.exe",
     "checkver": {

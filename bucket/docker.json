@@ -1,12 +1,21 @@
 {
+<<<<<<< HEAD
     "version": "28.0.2",
+=======
+    "version": "28.0.4",
+>>>>>>> 629bbbdd4b015d25497d14bbf271afa8db795c07
     "description": "Docker CLI & Docker Engine for Windows containers. Docker is an open platform for developing, shipping, and running applications.",
     "homepage": "https://docs.docker.com/engine",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
+<<<<<<< HEAD
             "url": "https://download.docker.com/win/static/stable/x86_64/docker-28.0.2.zip",
             "hash": "0ab9344c7e14c645e7cc458288b8bb4ed0acb5e4527b6d4cba891cdf6162c94d"
+=======
+            "url": "https://download.docker.com/win/static/stable/x86_64/docker-28.0.4.zip",
+            "hash": "cfafa2a5ee7e34bacc2077b0828f0733a404423c7a901c79efc4ff1680dbb716"
+>>>>>>> 629bbbdd4b015d25497d14bbf271afa8db795c07
         }
     },
     "extract_dir": "docker",
